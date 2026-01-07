@@ -79,6 +79,17 @@ In a bustling university environment, club communication often gets lost in frag
   <img src="screenshots/events.png" width="400" alt="Events Management">
   <img src="screenshots/mobile.png" width="400" alt="Mobile View">
 </p>
+<p align="center">
+  <img src="screenshots/screenshot1.png" width="400" alt="Notice Board">
+  <img src="screenshots/screenshot2.png" width="400" alt="Club Management">
+</p>
+<p align="center">
+  <img src="screenshots/screenshot3.png" width="400" alt="Task Assignment">
+  <img src="screenshots/screenshot4.png" width="400" alt="User Settings">
+</p>
+<p align="center">
+  <img src="screenshots/screenshot5.png" width="400" alt="Notifications">
+</p>
 
 | Section | Feature |
 | :--- | :--- |

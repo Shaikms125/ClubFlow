@@ -4,6 +4,8 @@
 
 > **One Platform. Every Club. Zero Friction.**
 
+### 🔗 [Live Demo - Experience ClubFlow](https://ewuevent.free.nf/)
+
 ---
 
 ## 🌟 Why ClubFlow?
@@ -68,6 +70,15 @@ In a bustling university environment, club communication often gets lost in frag
 ---
 
 ## 🎨 UI Preview
+
+<p align="center">
+  <img src="screenshots/login.png" width="400" alt="Login Page">
+  <img src="screenshots/dashboard.png" width="400" alt="Dashboard">
+</p>
+<p align="center">
+  <img src="screenshots/events.png" width="400" alt="Events Management">
+  <img src="screenshots/mobile.png" width="400" alt="Mobile View">
+</p>
 
 | Section | Feature |
 | :--- | :--- |

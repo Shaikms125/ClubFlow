@@ -72,23 +72,23 @@ In a bustling university environment, club communication often gets lost in frag
 ## 🎨 UI Preview
 
 <p align="center">
+  <img src="screenshots/homepage.png" width="400" alt="Homepage">
   <img src="screenshots/login.png" width="400" alt="Login Page">
-  <img src="screenshots/dashboard.png" width="400" alt="Dashboard">
 </p>
 <p align="center">
-  <img src="screenshots/events.png" width="400" alt="Events Management">
-  <img src="screenshots/mobile.png" width="400" alt="Mobile View">
+  <img src="screenshots/authority_dashboard.png" width="400" alt="Authority Dashboard">
+  <img src="screenshots/dashboard.png" width="400" alt="User Dashboard">
 </p>
 <p align="center">
-  <img src="screenshots/screenshot1.png" width="400" alt="Notice Board">
-  <img src="screenshots/screenshot2.png" width="400" alt="Club Management">
+  <img src="screenshots/clubs.png" width="400" alt="Clubs Overview">
+  <img src="screenshots/authority_club_view.png" width="400" alt="Authority Club Management">
 </p>
 <p align="center">
-  <img src="screenshots/screenshot3.png" width="400" alt="Task Assignment">
-  <img src="screenshots/screenshot4.png" width="400" alt="User Settings">
+  <img src="screenshots/admin_users_view.png" width="400" alt="Admin Users Management">
+  <img src="screenshots/admin_task_view.png" width="400" alt="Admin Task Management">
 </p>
 <p align="center">
-  <img src="screenshots/screenshot5.png" width="400" alt="Notifications">
+  <img src="screenshots/my_profile.png" width="400" alt="User Profile">
 </p>
 
 | Section | Feature |

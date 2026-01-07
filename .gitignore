@@ -1,0 +1,22 @@
+# Database configuration
+DB_connection.php
+
+# Image uploads (you might want to keep some placeholders but ignore user-uploaded content)
+img/events/*
+!img/events/.gitkeep
+img/notices/*
+!img/notices/.gitkeep
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# Temporary files
+tmp/
+*.log

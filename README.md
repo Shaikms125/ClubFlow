@@ -53,13 +53,13 @@ In a bustling university environment, club communication often gets lost in frag
     git clone https://github.com/yourusername/ClubFlow.git
     ```
 2.  **Database Configuration:**
-    *   Import the provided SQL schema (if available) into your MySQL database.
+    *   Import the provided SQL schema (clubflow_db.sql) into your MySQL database.
     *   Update `DB_connection.php` with your local database credentials:
       ```php
       $sName = "localhost";
       $uName = "root";
       $pass  = "";
-      $db_name = "ewu_club_event_organizer";
+      $db_name = "*anyname*";
       ```
 3.  **Local Server:**
     *   Move the project to your local server directory (e.g., `xampp/htdocs`).
